@@ -1,0 +1,57 @@
+CONVITE TROPICAL — JÚLIA VITÓRIA | 18 ANOS
+
+Data: sábado, 28 de novembro de 2026, às 13h (horário de Brasília).
+Local: Piscina Encanto da Natureza, conforme informado anteriormente.
+
+COMO ABRIR
+Extraia todos os arquivos da pasta e abra index.html no navegador.
+Mantenha o HTML, o CSS, o JavaScript e a pasta fotos juntos.
+Os textos, as fotos e a arte funcionam localmente. As fontes do Google,
+o mapa e o WhatsApp utilizam internet. Ao tocar em Abrir meu convite,
+o vídeo anexado é reproduzido com som. Ao terminar, o convite é aberto.
+O botão Ir para o convite permite pular o vídeo. O áudio de fundo anterior
+toca uma vez e, ao terminar, inicia Young and Beautiful, de Lana Del Rey.
+O botão de música permite reproduzir/pausar. Caso o navegador bloqueie
+a reprodução automática, toque em Ouvir música.
+
+CONFIRMAÇÃO
+Número de WhatsApp para confirmação: (99) 98104-5325.
+O formulário prepara uma mensagem com o nome do convidado. O convidado
+precisa enviá-la no WhatsApp para concluir a confirmação.
+Prazo para confirmar presença: 13 de novembro de 2026.
+As confirmações são recebidas nesse WhatsApp. Não há painel de convidados
+nem rastreamento de quem recebeu ou abriu o convite.
+Se o responsável mudou, altere o campo whatsapp em convite.js e o link
+whatsappFallback em index.html antes de distribuir.
+
+LOCALIZAÇÃO
+O botão abre uma busca no Google Maps pelo nome da piscina. Não se trata
+de um pino com endereço verificado. Para maior precisão, substitua o link
+na propriedade mapa em convite.js e no link mapLink em index.html.
+
+PERSONALIZAÇÃO
+Paleta laranja e rosa; hibiscos, folhagens tropicais, piscina e boia.
+Abertura interativa, música, fotos, mensagem, calendário de novembro,
+contagem regressiva com fuso explícito UTC-3 e botão de confirmação.
+As fotografias vieram do convite enviado. A música foi substituída pelo
+áudio anexado audioconvite.mp3.mpeg, preservando os bytes originais.
+Arquivo de reprodução: fotos/audioconvite-julia.mp3.
+Vídeo de abertura: fotos/abertura-tropical.mp4, fornecido no anexo
+VID-20261022-WA0044.mp4. Música seguinte: fotos/young-and-beautiful.mp3.
+Os dois arquivos foram copiados sem alterar o conteúdo.
+Traje casual para momentos sociais e traje de banho para a piscina.
+Pedido para evitar branco, creme e dourado.
+Imagens com o nome Ana Beatriz e dados bancários do modelo foram retirados.
+
+ARTE
+Fundo tropical produzido com a ferramenta integrada de geração de imagens.
+Prompt: ilustração vertical em guache e aquarela para convite de 18 anos;
+hibiscos laranja e rosa, folhas de palmeira e costela-de-adão nas bordas;
+centro em papel creme sem texto; piscina turquesa e boia rosa e laranja
+na parte inferior; sem pessoas, coroas, conchas ou marcas-d'água.
+Arquivo da arte: fotos/tropical-piscina.png.
+
+VALIDAÇÃO
+Conferência visual em navegador; abertura e controle musical.
+Verificados os arquivos referenciados, os textos, o calendário,
+a data UTC-3, o fim da contagem e a geração da mensagem de WhatsApp.
